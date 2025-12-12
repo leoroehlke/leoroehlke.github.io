@@ -2,7 +2,7 @@
 title: "ICT interest and self-concept as determinants of Swiss adolescents’ vocational choices"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-10-03-tree-ervet
 excerpt: 'This study examines whether adolescents’ interest and self-concept regarding information and communication technologies (ICT) affect their subsequent career paths through the selection into different vocational education and training (VET) programs. The findings emphasize that ICT are an important content domain of adolescents’ vocational choices today and highlight how gendered interests and self-concepts towards ICT perpetuate occupational gender segregation.'
 date: 2025-10-03
 venue: 'Empirical Research in Vocational Education and Training'
