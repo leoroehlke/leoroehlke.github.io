@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology, University of Bern (CH), 2025
+* M.A. in Sociology, University of Mannheim (DE), 2022
+* B.A. in Sociology, Heidelberg University (DE), 2019
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 02/2022 - 07/2025: Ph.D Fellow
+  * University of Bern (CH)
+  * Project DigiPrim: Data collection and analysis for educational governance and practice on primary school digitalization in Switzerland
+  * Supervisor: Jessica M. E. Herzing, PhD
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 02/2020 - 01/2022: Student Research Assistant
+  * GESIS - Leibniz Institut für Sozialwissenschaften, Mannheim (DE)
+  * General research assistance and co-authoring
+  * Supervisor: Jascha Dräger, Ph.D
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 10/2016 - 07/2019: Student Assistant & Academic Tutor
+  * Heidelberg University
+  * Duties included: Automating data workflows, co-authoring, teaching stats and social science methods
+  * Supervisor: Johannes Stauder, Ph.D
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical software
+  * Stata
+  * R
+  * SAS
+  * Mplus
+* Languages
+  * German (native)
+  * English (professional)
+  * French (intermediate)
 
 Publications
 ======
@@ -59,6 +62,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Voluntary Service
 ======
-* Currently signed in to 43 different slack teams
+* Ad-hoc reviewer for:
+  * European Sociological Review
+  * Journal of Children and Media
+  * Developmental Psychology
+* Board member:
+  * Choir of the University of Bern
