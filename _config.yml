@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Leo Röhlke"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Sociologist (PhD) focusing on educational inequalities, technological change, and child and youth development"
   location         : "Bern, Switzerland"
   employer         : "University of Bern"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "leo.roehlke@unibe.ch" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-3601-3762"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Leo_Roehlke"
   scopus           : # URL
   zotero           : # URL
