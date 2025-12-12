@@ -7,8 +7,17 @@
 # server process.
 
 # Basic Site Settings
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+# site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Leo Röhlke"
 title_separator          : "-"
 name                     : &name "Leo Röhlke"
